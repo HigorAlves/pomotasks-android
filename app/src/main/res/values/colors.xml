@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorForeground">#E1E1E6</color>
+    <color name="colorBackgroundLightest">#252131</color>
+    <color name="colorBackgroundLighter">#201B2D</color>
+    <color name="colorBackgroundDark">#191622</color>
+    <color name="colorBackgroundDarker">#15121E</color>
+    <color name="colorBackgroundDarkest">#13111B</color>
+    <color name="purple">#6633cc</color>
+    <color name="purpleDark">#5A4B81</color>
+    <color name="pink">#FF79C6</color>
 </resources>
+
+<!--    colors: {-->
+<!--    white: '#E1E1E6',-->
+<!--    grey: shade(0.3, '#E1E1E6'),-->
+<!--    opaque: '#41414D',-->
+<!--    purple: '#6633cc',-->
+<!--    purpleDark: '#5A4B81',-->
+<!--    green: '#67e480',-->
+<!--    orange: '#E89E64',-->
+<!--    pink: '#FF79C6',-->
+<!--    cyan: '#78D1E1',-->
+<!--    red: '#E96379',-->
+<!--    yellow: '#e7de79'-->
+<!--    },-->
